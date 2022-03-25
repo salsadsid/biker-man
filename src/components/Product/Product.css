@@ -25,6 +25,7 @@
     background-color: rgba(226, 116, 43, 0.164);
     position: absolute;
     bottom: 0;
-    margin-right: 15px;
-    display: block;
+}
+.add-btn:hover{
+    background-color: rgba(165, 42, 42, 0.26);
 }
