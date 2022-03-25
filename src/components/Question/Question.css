@@ -1,0 +1,17 @@
+.question-answer{
+    margin: 15px;
+    background-color: rgba(137, 43, 226, 0.096);
+    border-radius: 15px;
+    padding: 15px;
+}
+.question{
+    color: rgba(0, 0, 255, 0.562);
+}
+.question-answer p{
+    font-size: 20px;
+}
+.question-answer table,.question-answer table tr,.question-answer table tr th,.question-answer table tr td{
+    border: 2px solid salmon;
+    border-collapse: collapse;
+    font-size: 20px;
+}

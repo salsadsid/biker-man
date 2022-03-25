@@ -2,8 +2,9 @@ import React from 'react';
 import './Header.css'
 const Header = () => {
     return (
-        <div >
-            <h1 className='header'>Biker man</h1>
+        <div className='header'>
+            <h1 className='title'>Biker Man</h1>
+            <p className='sub-title'>CHOOSE YOUR LUCKY BIKE</p>
         </div>
     );
 };
