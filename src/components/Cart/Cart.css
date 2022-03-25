@@ -1,0 +1,28 @@
+.choose-btn{
+    margin-top: 20px;
+    display: block;
+    padding: 10px 0px;
+    background-color: rgba(137, 43, 226, 0.308);
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 600;
+    width: 200px;
+}
+.choose-btn:hover{
+    background-color: rgba(137, 43, 226, 0.514);
+}
+.remove-btn{
+    margin-top: 20px;
+    display: block;
+    padding: 10px 0px;
+    background-color: rgba(137, 43, 226, 0.308);
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 600;
+    width: 200px;
+}
+.remove-btn:hover{
+    background-color: rgba(137, 43, 226, 0.514);
+}
