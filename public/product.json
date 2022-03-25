@@ -3,60 +3,54 @@
         "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
         "name": "Apache 160 4v",
         "price": 180000,
-        "img": "../src/images/apache-160-4v.png"
+        "img": "./images/apache-160-4v.png"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2d54-4b2f-a74d-a77bhgt6ead",
         "name": "Bajaj Pulsar",
         "price": 175000,
-        "img": "../src/images/bajaj-pulsar.png"
+        "img": "./images/bajaj-pulsar.png"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2d54-4b2f-a74d-a77byhhd6ead",
         "name": "Bajaj CT 100",
         "price": 110000,
-        "img": "../src/images/bajaj-ct-100.png"
+        "img": "./images/bajaj-ct-100.png"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2d54-4b2f-a74d-a77bghd2d6ead",
         "name": "Bajaj Discover",
         "price": 150000,
-        "img": "../src/images/bajaj-discover.jpg"
+        "img": "./images/bajaj-discover.jpg"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2d54-4b2f-a74d-afsfdb362d6ead",
         "name": "Hero Triller",
         "price": 183000,
-        "img": "../src/images/hero-triller.jpg"
+        "img": "./images/hero-triller.jpg"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2d54-4b2f-a74d-a77b3hg2d6ead",
         "name": "Honda Hunk",
         "price": 177000,
-        "img": "../src/images/hunk.jpg"
+        "img": "./images/hunk.jpg"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2d54-4b2f-a74d-a7nhbg362d6ead",
         "name": "Royal Enfield Classic 350",
         "price": 500000,
-        "img": "../src/images/royal-enfield-classic-350.png"
+        "img": "./images/royal-enfield-classic-350.png"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2d54-4b2f-a74d-a7ty362d6ead",
         "name": "Yamaha MT 15",
         "price": 400000,
-        "img": "../src/images/yamaha-mt-15.png"
+        "img": "./images/yamaha-mt-15.png"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2d54-4b2f-a74d-a7hgbdh362d6ead",
         "name": "Yamaha R15",
         "price": 500000,
-        "img": "../src/images/yamaha-r15.jpg"
-    },
-    {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-        "name": "Hero Triller",
-        "price": 175000,
-        "img": "../src/images/hero-triller.jpg"
+        "img": "./images/yamaha-r15.jpg"
     }
 ]
