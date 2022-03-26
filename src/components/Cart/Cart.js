@@ -16,13 +16,13 @@ const Cart = (props) => {
     }
 
     return (
-        <div>
+        <div className='cart'>
             {
                 props.cart.map(cartItem => <Cartitem cartitem={cartItem} key={cartItem.id}></Cartitem>)
             }
             <button onClick={() => chooseOne()} className="choose-btn">CHOOSE 1 ITEM</button>
             <button onClick={() => props.removecart()} className='remove-btn'>CHOOSE AGAIN</button>
-            <h2>{choose.name}</h2>
+            <h2>Your Lucky Bike: {choose.name}</h2>
         </div>
     );
 };

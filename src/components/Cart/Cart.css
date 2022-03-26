@@ -8,9 +8,12 @@
     font-size: 17px;
     font-weight: 600;
     width: 200px;
+    transition: .3s ease-in-out;
 }
 .choose-btn:hover{
     background-color: rgba(137, 43, 226, 0.514);
+    cursor: pointer;
+    transition: .3s ease-in-out;
 }
 .remove-btn{
     margin-top: 20px;
@@ -22,7 +25,13 @@
     font-size: 17px;
     font-weight: 600;
     width: 200px;
+    transition: .3s ease-in-out;
 }
 .remove-btn:hover{
     background-color: rgba(137, 43, 226, 0.514);
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
+.cart h2{
+    font-size: 18px;
 }
